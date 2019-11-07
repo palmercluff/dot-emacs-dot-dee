@@ -274,3 +274,6 @@ sEmail: ")
 ;;;;;;;;;;;;;;;;;;;;;
 
 (load "~/.emacs.d/sensitive.el")
+
+;; Or even better...
+(load "~/.emacs.d/sensitive.el.gpg")
